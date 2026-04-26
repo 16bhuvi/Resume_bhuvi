@@ -911,25 +911,16 @@ footer{
   <div class="divider"></div>
 
   <style>
-    .resume-viewer{max-width:860px;margin:0 auto;}
-    .resume-toolbar{display:flex;align-items:center;justify-content:space-between;background:var(--surface2);border:1px solid var(--border);border-bottom:none;border-radius:12px 12px 0 0;padding:14px 20px;flex-wrap:wrap;gap:12px;}
-    .resume-toolbar-left{display:flex;align-items:center;gap:8px;}
-    .resume-dot{width:12px;height:12px;border-radius:50%;}
-    .resume-filename{font-family:'Courier New',monospace;font-size:0.78rem;color:var(--muted);margin-left:8px;}
-    .resume-toolbar-right{display:flex;align-items:center;gap:10px;}
-    .resume-page-info{font-size:0.8rem;color:var(--muted);font-family:'Courier New',monospace;background:var(--surface);border:1px solid var(--border);padding:6px 14px;border-radius:6px;}
-    .resume-nav-btn{width:36px;height:36px;border:1px solid var(--border);background:var(--surface);color:var(--text);border-radius:8px;cursor:pointer;font-size:1rem;display:flex;align-items:center;justify-content:center;transition:all 0.2s;}
-    .resume-nav-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent);}
-    .resume-nav-btn:disabled{opacity:0.3;cursor:not-allowed;}
-    .resume-dl-btn{padding:8px 18px;background:var(--accent);color:#fff;border:none;border-radius:8px;font-size:0.8rem;font-weight:600;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:6px;transition:all 0.2s;}
-    .resume-dl-btn:hover{opacity:0.85;transform:translateY(-1px);}
-    .resume-page-wrap{border:1px solid var(--border);border-radius:0 0 12px 12px;overflow:hidden;background:#d0d0d0;padding:24px 10%;display:flex;flex-direction:column;align-items:center;gap:20px;}
-    .resume-page-img{width:100%;max-width:720px;display:none;border-radius:4px;box-shadow:0 6px 30px rgba(0,0,0,0.35);}
-    .resume-page-img.active{display:block;}
-    .resume-thumb-row{display:flex;gap:14px;justify-content:center;margin-top:20px;}
-    .resume-thumb{width:80px;border-radius:4px;border:2px solid transparent;cursor:pointer;opacity:0.6;transition:all 0.2s;box-shadow:0 2px 8px rgba(0,0,0,0.3);}
-    .resume-thumb:hover{opacity:0.9;}
-    .resume-thumb.active{border-color:var(--accent);opacity:1;}
+    .resume-viewer { max-width: 860px; margin: 0 auto; }
+    .resume-toolbar { display: flex; align-items: center; justify-content: space-between; background: var(--surface2); border: 1px solid var(--border); border-bottom: none; border-radius: 12px 12px 0 0; padding: 14px 20px; flex-wrap: wrap; gap: 12px; }
+    .resume-toolbar-left { display: flex; align-items: center; gap: 8px; }
+    .resume-dot { width: 12px; height: 12px; border-radius: 50%; }
+    .resume-filename { font-family: 'Courier New', monospace; font-size: 0.78rem; color: var(--muted); margin-left: 8px; }
+    .resume-toolbar-right { display: flex; align-items: center; gap: 10px; }
+    .resume-dl-btn { padding: 8px 18px; background: var(--accent); color: #fff; border: none; border-radius: 8px; font-size: 0.8rem; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: all 0.2s; }
+    .resume-dl-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+    .resume-page-wrap { border: 1px solid var(--border); border-radius: 0 0 12px 12px; overflow: hidden; background: #d0d0d0; padding: 24px 10%; display: flex; flex-direction: column; align-items: center; }
+    .resume-iframe { width: 100%; max-width: 720px; height: 900px; border: none; border-radius: 4px; box-shadow: 0 6px 30px rgba(0,0,0,0.35); display: block; }
   </style>
 
   <div class="resume-viewer">
@@ -941,20 +932,18 @@ footer{
         <span class="resume-filename">Bhuvi_Vishwakarma_Resume.pdf</span>
       </div>
       <div class="resume-toolbar-right">
-        <button class="resume-nav-btn" id="prev-btn" onclick="resumeChangePage(-1)" disabled>&#8592;</button>
-        <div class="resume-page-info" id="page-info">Page 1 of 2</div>
-        <button class="resume-nav-btn" id="next-btn" onclick="resumeChangePage(1)">&#8594;</button>
-        <a href="resume_of_bhuvi.pdf" download="Bhuvi_Vishwakarma_Resume.pdf" class="resume-dl-btn">⬇ Download</a></div>  
+        <a href="resume_of_bhuvi.pdf" download="Bhuvi_Vishwakarma_Resume.pdf" class="resume-dl-btn">⬇ Download</a>
+      </div>
     </div>
     <div class="resume-page-wrap">
-      <img src="resume_of_bhuvi.pdf" class="resume-page-img active" id="resume-page-1" alt="Resume Page 1">
-      <img src="resume_of_bhuvi.pdf" class="resume-page-img" id="resume-page-2" alt="Resume Page 2">
-    </div>
-    <div class="resume-thumb-row">
-      <img src="resume_of_bhuvi.pdf" class="resume-thumb active" onclick="resumeGoTo(1)" alt="Page 1">
-      <img src="resume_of_bhuvi.pdf" class="resume-thumb" onclick="resumeGoTo(2)" alt="Page 2">
+      <iframe
+        src="resume_of_bhuvi.pdf"
+        class="resume-iframe"
+        title="Bhuvi Vishwakarma Resume">
+      </iframe>
     </div>
   </div>
+
 </section>
 
 <script>
