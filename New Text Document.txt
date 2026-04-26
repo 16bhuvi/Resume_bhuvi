@@ -1,0 +1,112 @@
+Bhuvi Vishwakarma
+P
+h
+o
+n
+e-
+A
+l
+t+91 8176851701 | Envelope bhuvi162005@email.com | GLOBE Portfolio | Github GitHub | LINKEDIN LinkedIn | Map-marker-alt India
+PROFESSIONAL SUMMARY
+Final-year IT Engineering student focused on Software Engineering, Data Analysis, and Prompt Engineering.
+Determined to apply technical foundations alongside interests in Finance, HR, Economic and Creative Design.
+Proactive collaborator experienced in managing projects from development to final presentation and social engagement.
+Seeking to leverage strong communication skills to contribute to high-value projects and multidisciplinary team goals.
+EXPERIENCE
+Findem
+Software Engineer Intern
+May 2025– June 2025
+Remote
+• Developed a Python-based web scraper to automate the extraction of leadership metrics from corporate websites;
+open-sourced the development repository on GitHub
+GitHub.
+• Acquired proficiency in industry-standard development workflows under senior mentorship, worked and engaged in
+their live projects as a part of Software engineer team including Git version control, systematic debugging, and API
+fetching.
+• Leveraged Postman for API testing and MongoDB Compass for managing and visualizing scraped JSON data
+structures.
+• Conducted data research and analysis on internal web architecture to identify functional gaps and improve data
+processing efficiency.
+PROJECTS
+ACE Your Day
+Mar. 2025– Apr. 2025
+• Developed an all-in-one student management application using Object-Oriented Programming (OOP) in C++ to
+centralize personal tasks, course schedules, and meal planning.
+• Engineered a comprehensive organizational suite featuring dynamic to-do lists and academic tracking to streamline
+daily routines for students.
+• Integrated an interactive mini-game component to increase user engagement and balance productivity with user
+experience.
+• Open-sourced the project repository and technical documentation on GitHub
+GitHub.
+Leadership Data Scraper
+May 2025– June 2025
+• Engineered a Python-based web scraper to automate the extraction of organizational leadership data from various
+corporate websites.
+• Utilized Postman for API testing and MongoDB Compass for managing and visualizing scraped JSON data
+structures, ensuring high data accuracy.
+• Performed in-depth data research and analysis on web architectures to optimize scraping logic and handle dynamic
+content delivery.
+• Implemented industry-standard workflows including Git version control and systematic debugging for efficient
+codebase maintenance.
+• Published the development repository and technical implementation details on GitHub
+GitHub.
+Amazon Clone- BookStore
+• Developed a comprehensive static clone of the Amazon e-commerce platform, specifically tailored for a
+book-shopping experience using semantic HTML.
+• Architected a multi-page interface including landing pages, product catalogs, and shopping cart layouts to
+demonstrate mastery of web document structure and linking.
+Feb. 2025
+• Implemented complex layouts and navigation menus, focusing on replicating a well-known production-level UI for an
+Internet Web Technologies academic assignment.
+amazon-bv.netlify.app.
+• Deployed the live static site on Netlify for optimized delivery and accessible project demonstration:
+amazon-bv.netlify.app
+BanVerse | AI-Powered Student Platform
+Aug. 2025– Mar. 2026
+• Co-developed a comprehensive student engagement ecosystem featuring an AI-driven chatbot for automated
+grievance handling and intelligent recommendation algorithms for campus events.
+• Spearheaded the UI/UX design, creating a highly user-friendly and responsive interface to facilitate seamless
+interaction for the university student body.
+• Managed the end-to-end deployment cycle, including a complex 10-hour configuration of a custom virtual
+machine environment within the university network infrastructure.
+• Optimized platform accessibility by deploying a live production build on Netlify: banverse-01.netlify.app
+banverse-01.netlify.app.
+• Collaborated in an agile team environment over a 3-month development sprint, open-sourced on GitHub
+GitHub.
+ACHIEVEMENTS & PARTICIPATIONS
+AlgoUniversity Tech Fellowship (ATF 2024): Successfully qualified Stage-1, standing out among the top 20% of
+20,000+ applicants and advancing to Stage-2 within the top 4% of candidates.
+Google Cloud Skills Boost Arcade: Reached the Arcade Novice Tier (Season 1, 2025) by completing 100+ hands-on
+labs and achieving multiple milestones in cloud infrastructure and services.
+30-Hour Hackverse (AIC Banasthali): Collaborated in a team to develop "Reuse & Earn", a full-stack sustainable trading
+platform using Python, MySQL, and Web Technologies; successfully cleared two evaluation rounds.
+BV-Literati Face Painting Competition: Secured Second Place at the annual academic fest of the Department of
+English & Modern European Languages, themed around "Indian Literature and Culture."
+MAYUKH2025: Actively participated in the Technical Festival at Banasthali Vidyapith, contributing as an Anchor and
+coordinating filler segments for cultural event block.
+Project Navonmesh: Recognized for volunteer contributions during the "Igniting The Spark Within" initiative led by the
+Global Institute for Circular Economy and Sustainable Development Goals.
+In-House Project: Our project BanVerse ranked among the top 30 out of approximately 141 projects during the session
+2025–26 B.Tech. (CS/IT/CS-AI) in our university.
+EDUCATION
+Banasthali Vidyapith
+Bachelor of Technology in Information Technology
+• CGPA: 7.8 / 10.0 (Cumulative of 5 Semesters)
+July 2023– Present
+Tonk, Rajasthan
+• Relevant Coursework: Data Structures and Algorithms, Database, Internet Web Technologies, Object-Oriented
+Programming, Operating Systems, Software Engineering, Engineering economics, Management, Basic Engineering
+architecture & core, Entrepreneurship.
+Ryan International School
+Secondary & Senior Secondary (CBSE)
+• Class XII (2023): 75% in PCM, Computer Science, and English.
+• Class X (2021): 94% Aggregate.
+SKILLS
+Completed 2021– 2023
+Shahjahanpur, Uttar Pradesh
+Programming: Python, C, C++, Java, SQL (MySQL)
+WebTechnologies: HTML, CSS, JavaScript, JSON, React.js, MongoDB
+Core Fundamentals: OOP, DSA, DBMS, OS, Prompt Engineering, Project management and presentation
+Tools & Software: Git, GitHub, Postman, AutoCAD, Virtual Machine (Virtual Box), Canva
+Additional Skills: Drone Technology, Web Scraping
+Software Engineering, Full Stack Development, Data Structures, Algorithms, Python Developer, C++, JavaScript, React, Node.js, SQL, MongoDB, Web Scraping, API Testing, Git, GitHub, Agile, UI/UX, Cloud Computing, Prompt Engineering, Technical Documentation, SDLC, Problem Solving, Team Collaboration, Information Technology, Banasthali Vidyapith, B.Tech, IT, Internship, Web Developer, MERN Stack.
